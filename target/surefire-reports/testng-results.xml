@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7042" started-at="2019-11-14T15:26:43 GMT" finished-at="2019-11-14T15:26:50 GMT">
+    <groups>
+    </groups>
+    <test name="netcompany" duration-ms="7042" started-at="2019-11-14T15:26:43 GMT" finished-at="2019-11-14T15:26:50 GMT">
+      <class name="com.netcompany.test.SimulatorTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.netcompany.test.SimulatorTest@77847718]" name="getData" is-config="true" duration-ms="1377" started-at="2019-11-14T15:26:43 GMT" finished-at="2019-11-14T15:26:44 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="verifyGainingSupplierInitiatesSwitchRequestToCSS()[pri:0, instance:com.netcompany.test.SimulatorTest@77847718]" name="verifyGainingSupplierInitiatesSwitchRequestToCSS" duration-ms="5591" started-at="2019-11-14T15:26:45 GMT" finished-at="2019-11-14T15:26:50 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGainingSupplierInitiatesSwitchRequestToCSS -->
+      </class> <!-- com.netcompany.test.SimulatorTest -->
+    </test> <!-- netcompany -->
+  </suite> <!-- Suite -->
+</testng-results>

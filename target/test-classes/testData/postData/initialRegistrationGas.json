@@ -1,0 +1,11 @@
+{
+  "domesticPremisesInd": true,
+  "fuelType": "G",
+  "mpxn": "MID1234",
+  "shipperMpid": "SID1234",
+  "shipperRole": "Tester",
+  "supplierGeneratedReference": "REF001",
+  "supplierMpid": "SUPID1234",
+  "supplierRole": "Dev",
+  "supplyStartDate": "2019-11-05T09:56:35.552Z"
+}

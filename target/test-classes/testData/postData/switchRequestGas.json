@@ -1,0 +1,20 @@
+{
+  "body":{
+    "supplyStartDate": "2019-11-05T09:56:35.552Z",
+    "registrations":
+    [{
+      "mpxn": "MID1234",
+      "fuelType":  "G",
+      "supplierMpid": "SUPID1234",
+      "supplierRole": "Dev",
+      "changeOfOccupancyInd":  true,
+      "erroneousSwitchResolutionInd": true,
+      "domesticPremisesInd": true,
+      "shipperMpid": "SID1234",
+      "shipperRole": "Tester",
+      "supplierGeneratedReference": "REF001"
+    }]
+  } ,
+  "method": "POST",
+  "route": "/registrations/switch"
+}

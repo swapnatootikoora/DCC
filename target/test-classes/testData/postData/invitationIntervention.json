@@ -1,0 +1,25 @@
+{
+  "contextType": "LosingSupplier",
+  "correlationId": "556dc04a-c6ca-4efa-b95c-5b436c59cf8f",
+  "data": {
+    "mpxn": "mpxn",
+    "fuelType": "G",
+    "activeRegistrationId": "ba5861ff-eddc-4cb7-a9bd-5a22c3b8912d",
+    "pendingRegistrationId": "ba5861ff-eddc-4cb7-a9bd-5a22c3b8912d",
+    "gainingSupplierMpid": "mpid",
+    "gainingSupplierRole": "role",
+    "supplyStartDate": "2019-08-07T15:00:00.000Z",
+    "interventionWindowStartDate": "2019-08-07T15:00:00.000Z",
+    "objectionWindowEndDate": "2019-08-07T15:00:00.000Z",
+    "annulmentWindowEndDate": "2019-08-07T15:00:00.000Z",
+    "changeOfOccupancyInd": true,
+    "erroneousSwitchResolutionInd": true
+  },
+  "eventDate": "2019-08-07T22:57:49.000Z",
+  "eventDescription": "string",
+  "eventId": "ba5861ff-eddc-4cb7-a9bd-5a22c3b8912d",
+  "eventStatus": "Ok",
+  "eventType": "InvitationToIntervene",
+  "updatedProperties": [],
+  "version": "1"
+}
